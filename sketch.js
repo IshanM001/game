@@ -29,7 +29,7 @@ var blocksGroup;
 
 
 function preload(){
-playerImg=loadImage("img/walk.png")
+playerImg=loadImage("run/run0.png")
 runImg=loadAnimation("run/run0.png", "run/run1.png" , "run/run2.png" , "run/run3.png" , "run/run4.png" , "run/run5.png")
 jumpImg=loadAnimation("run/jump0.png", "run/jump1.png" , "run/jump2.png" , "run/jump3.png" )
 fallImg=loadAnimation( "run/fall0.png" , "run/fall1.png")
